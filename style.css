@@ -1,0 +1,50 @@
+*{ margin : 0; padding : 0; box-sizing: border-box; font-family: 'Josefin Sans', sans-serif; 
+    background-color: rgb(2, 4, 8); color: white;
+}
+
+  .a:hover{
+      text-decoration: none;
+  }
+ .card{
+     height: 250px!important;
+     border: 1px solid rgb(30, 146, 30);
+ }
+.circle-image{
+
+    width: 10%;
+    height: 125px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 4px;
+    padding-right: 4px;
+    margin-bottom: 20px;
+}
+.vl {
+    border-left: 6px solid red;
+    height: 250px;
+  }
+  .fa{
+      float: left;
+      /* /* font-size: 2px; */
+      text-align: left;
+  }
+  
+  
+  .v-divider{
+    margin-left:5px;
+    margin-right:5px;
+    width:1px;
+    height:100%;
+    border-left:4px solid red;
+   }
+   .size{
+       width: 50%;
+       margin: auto;
+   }
+   .align{
+       margin: auto;
+   }
+
+   
